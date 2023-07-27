@@ -2,9 +2,9 @@ import streamlit as st
 
 st.set_page_config(
     page_title="BizCardX: Business Card Data with OCR",
-    page_icon="👋",
+    page_icon=" ⌨",
 )
-st.write("# Welcome to BizCardX: Business Card Data with OCR! 👋")
+st.write("# Welcome to BizCardX: Business Card Data with OCR!  ⌨")
 
 st.title("By Geetha Sukumar")
 
