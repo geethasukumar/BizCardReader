@@ -31,8 +31,11 @@ All the Business card details with a preview of the uploaded card is available f
 
 ## Results
 ![Project output](images/Home.png)
+Click the BizCard OCR and upload an business card for OCR
 ![Project output](images/bizcardocr.png)
+Edit the data and click Save Data, to save the data to DB.
 ![Project output](images/bizcardocr_results.png)
+Available Business Cards in the DB. Delete the ones not necessary
 ![Data output](images/bizcardreport.png)
 ![Data output](images/bizcard_preview.png)
 
